@@ -26,27 +26,27 @@
 - 学习使用共享内存和信号量实现进程间的通信。
 - 学习利用信号量实现进程间的互斥与同步。
 - 通过模拟进一步理解生产者和消费者问题模型。
-- 学习windows和Linux下共享内存和信号量的实现方法。
+- 学习windows和linux下共享内存和信号量的实现方法。
 
 ### 二、实验内容
 分别在windows和linux下模拟实现下列内容：
 - 一个大小为3的缓冲区，初始为空
 - 2个生产者
-    - 随机等待一段时间，往缓冲区添加数据，
-    - 若缓冲区已满，等待消费者取走数据后再添加
-    - 重复6次
+    - 随机等待一段时间，往缓冲区添加数据。
+    - 若缓冲区已满，等待消费者取走数据后再添加。
+    - 重复6次。
 - 3个消费者
-    - 随机等待一段时间，从缓冲区读取数据
-    - 若缓冲区为空，等待生产者添加数据后再读取
-    - 重复4次
+    - 随机等待一段时间，从缓冲区读取数据。
+    - 若缓冲区为空，等待生产者添加数据后再读取。
+    - 重复4次。
 
 ### 三、实验环境
 - CPU：intel core i7
 - 内存：8G ddr4
 - windows系统：win 10
-- Linux系统：Ubuntu 18.04.3
+- linux系统：Ubuntu 18.04.3
 - 虚拟机平台：VMware 14
-- Linux 内核：Linux 5.3.11
+- linux 内核：linux 5.3.11
 - 开发工具：Visual Studio 2017 社区版
 
 ### 四、程序设计与实现
@@ -87,7 +87,7 @@
             WaitForSingleObject(ip[i].hProcess, INFINITE);
         ```
 
-    - 关闭相关句柄
+    - 关闭相关句柄。
         ```C++
         for (int i = 1; i <= 5; i++)
 		    CloseHandle(ip[i].hProcess);
@@ -227,7 +227,7 @@
             wait(&stat);
         ```
 
-    - 关闭相关标识符
+    - 关闭相关标识符。
         ```C++
         shmctl(shmid, IPC_RMID, 0);
 	    shmctl(semid, IPC_RMID, 0);
@@ -243,8 +243,8 @@
         ```
 
     - P(empty)		P(mutex)
-    - 向缓存去放入产品
-    - 输出时间
+    - 向缓存去放入产品。
+    - 输出时间。
     - V(mutex)		V(full)
         ```C++
         P(sem_id, SEM_EMPTY);
@@ -267,7 +267,7 @@
 		V(sem_id, SEM_FULL);
         ```
  
-    - 等待随机时间，并重复上述过程6次
+    - 等待随机时间，并重复上述过程6次。
 		
 - 消费者进程：
 	- 与生产者类似，P/V操作处顺序不同，重复四次。
@@ -304,9 +304,3 @@
 
 [pic-0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ac216f59-2b27-46be-958c-9acb40c3679f.png
 [pic-1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/2e62dae5-a948-4750-a263-c45830d02e9e.png
-
-
-
-		
-
-
