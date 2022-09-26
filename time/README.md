@@ -160,10 +160,10 @@
 
 ---
 
-[pic-0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/de574684-d911-4c4c-b90e-05f198535566.png
-[pic-1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/31c4cb6f-f5a5-4ea6-963a-9d1880f46a6a.png
-[pic-2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/cf7121bb-a747-41bb-a22f-49ac276b9acd.png
-[pic-3]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/4f57ce0b-0979-4489-94c2-27763b85b08e.png
+[pic-0]: https://images.wait4echo.love/Works/os-experiment/ose-time-0.png
+[pic-1]: https://images.wait4echo.love/Works/os-experiment/ose-time-1.png
+[pic-2]: https://images.wait4echo.love/Works/os-experiment/ose-time-2.png
+[pic-3]: https://images.wait4echo.love/Works/os-experiment/ose-time-3.png
 
 
 

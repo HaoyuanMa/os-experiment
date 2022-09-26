@@ -348,9 +348,9 @@
 
 ---
 
-[pic-0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/08570868-6c3c-4f9f-916d-f8c74a66e0a8.png
-[pic-1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/87984b3e-8993-4842-a5d4-be7afae8cf6a.png
-[pic-2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/549cf6f9-3822-4355-ac8f-ac446c6bd5e1.png
+[pic-0]: https://images.wait4echo.love/Works/os-experiment/ose-cp-0.png
+[pic-1]: https://images.wait4echo.love/Works/os-experiment/ose-cp-1.png
+[pic-2]: https://images.wait4echo.love/Works/os-experiment/ose-cp-2.png
 
 
 

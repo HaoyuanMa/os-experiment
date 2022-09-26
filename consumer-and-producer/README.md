@@ -302,5 +302,5 @@
 
 ---
 
-[pic-0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ac216f59-2b27-46be-958c-9acb40c3679f.png
-[pic-1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/2e62dae5-a948-4750-a263-c45830d02e9e.png
+[pic-0]: https://images.wait4echo.love/Works/os-experiment/ose-cap-0.png
+[pic-1]: https://images.wait4echo.love/Works/os-experiment/ose-cap-1.png

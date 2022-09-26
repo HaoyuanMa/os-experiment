@@ -216,11 +216,11 @@
 ![DS][pic-DS]
 ---
 
-[pic-A]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/ccbf2edc-0034-4310-a464-b5b93051f124.png
-[pic-B]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/a7bc1e84-62be-43b6-bf8a-ea4e76badb70.png
-[pic-C]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/5a0ec454-1dda-4588-8ad2-94b80158ab22.png
-[pic-DA]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/213735e4-7c15-49bd-beaf-b6c12a7903ba.png
-[pic-DS]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/8b458856-a69b-4b01-9391-365f48c97d40.png
+[pic-A]: https://images.wait4echo.love/Works/os-experiment/ose-mm-0.png
+[pic-B]: https://images.wait4echo.love/Works/os-experiment/ose-mm-1.png
+[pic-C]: https://images.wait4echo.love/Works/os-experiment/ose-mm-2.png
+[pic-DA]: https://images.wait4echo.love/Works/os-experiment/ose-mm-3.png
+[pic-DS]: https://images.wait4echo.love/Works/os-experiment/ose-mm-4.png
 
 
 
